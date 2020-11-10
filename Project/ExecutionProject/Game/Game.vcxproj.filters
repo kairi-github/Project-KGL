@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\Main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SceneGame.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SceneManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Obj3D.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene00.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene01.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene02.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene03.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\particle.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\fireworks.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Effect.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\SkyMap.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Bloom.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Camera.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\DepthOfField.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene04.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene05.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestSceneBase.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\TestScene06.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FireworkCerialManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\ParticleManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Debug\Debug.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Debug\DebugObjects.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\MSAA.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FXAA.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\FireworksSpawnerManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Scenes\LoadScene00.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GUIManager.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hrd\SceneGame.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Obj3D.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene00.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestSceneBase.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene01.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene02.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene03.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene04.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene05.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Particle.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Effects.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Fireworks.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\SkyMap.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Bloom.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Camera.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\DepthOfField.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\TestScene06.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\FireworkCerialManager.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\CelealHelper.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\ParticleManager.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Debug.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\MSAA.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scene.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\FXAA.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\FireworksSpawnerManager.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\LoadScene00.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\GUIManager.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Hrd\Scenes\Scenes.hpp">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="HLSL\3D\PMDVertexShader.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDPixelShader.hlsl" />
+    <FxCompile Include="HLSL\2D\Sprite_vs.hlsl" />
+    <FxCompile Include="HLSL\2D\Sprite_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\GrayScale_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Invert_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\DownGradation4_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Blur_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Emboss_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Sharpness_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Edge_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\SimpleGaussianBlur_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\GaussianBlurW_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\GaussianBlurH_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\SpriteNormal_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDGroundShadow_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDGroundShadow_vs.hlsl" />
+    <FxCompile Include="HLSL\2D\Depth_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDShadowMap_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDShadowMap_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\PMDMultiRenderTarget_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle_cs.hlsl" />
+    <FxCompile Include="HLSL\3D\Board_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\Board_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle_gs.hlsl" />
+    <FxCompile Include="HLSL\3D\ComputeShader.hlsl" />
+    <FxCompile Include="HLSL\3D\Simple_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\Simple_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\NearAlpha_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\NearAlpha_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\UnNormal_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\UnNormal_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\ParticleAdd_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\HasColor_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\SpriteAdd_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\Bloom_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\DepthOfField_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\ParticleDepth_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\ParticlePos_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\StaticObject_vs.hlsl" />
+    <FxCompile Include="HLSL\3D\StaticObject_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\DepthWriteTextureMS_ps.hlsl" />
+    <FxCompile Include="HLSL\2D\FXAA_ps.hlsl" />
+    <FxCompile Include="HLSL\3D\StaticObject_gs.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle4_gs.hlsl" />
+    <FxCompile Include="HLSL\3D\Particle8_gs.hlsl" />
+    <FxCompile Include="HLSL\2D\NoiseEffect_ps.hlsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HLSL\3D\PMDShaderHeader.hlsli" />
+    <None Include="HLSL\2D\Sprite.hlsli" />
+    <None Include="HLSL\3D\PMDGroundShadow.hlsli" />
+    <None Include="HLSL\2D\Depth.hlsli" />
+    <None Include="HLSL\GrayScale.hlsli" />
+    <None Include="HLSL\GaussianBlur5x5.hlsli" />
+    <None Include="HLSL\3D\Board.hlsli" />
+    <None Include="HLSL\3D\Particle.hlsli" />
+    <None Include="HLSL\3D\ParticleStruct.hlsli" />
+    <None Include="HLSL\3D\NearAlpha.hlsli" />
+    <None Include="HLSL\Easings.hlsli" />
+    <None Include="HLSL\3D\UnNormal.hlsli" />
+    <None Include="HLSL\3D\StaticObject.hlsli" />
+    <None Include="HLSL\2D\FXAA3_11.hlsli" />
+    <None Include="HLSL\3D\Particle_gs.hlsli" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="KGL_ICON.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
